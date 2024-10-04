@@ -1,0 +1,39 @@
+.borda {
+    margin-left: 350px;
+    width: 309px;
+    height: 400px;
+    background-color: rgb(177, 227, 168);
+}
+label{
+    display: block;
+}
+.campo1{
+    width: 300px;
+    height: 22px;
+  margin-top: 5px;
+  margin-top: 10px;
+}
+.campo2{
+    width: 300px;
+    height: 22px;
+  margin-top: 5px;
+  margin-top: 10px; 
+}
+
+.campo3{
+    width: 300px;
+    height: 22px;
+  margin-top: 5px;
+  margin-top: 10px;
+}
+#BotaoCadastro{
+  margin-top: 10px;
+}
+#email{
+  margin-top: 8px;
+}
+#data{
+    margin-top: 8px;
+}
+
+
